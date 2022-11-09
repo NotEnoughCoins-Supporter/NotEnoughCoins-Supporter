@@ -1,8 +1,6 @@
-NotEnoughCoins
-
-A SkyBlock Flipping Mod.
-
-Discord - https://discord.gg/b3JBsh8fEd Premium - https://payhip.com/b/0MuhN
+NotEnoughCoins-Supporter
+Free mod for hypixel skyblock ah flipping
+Moderated from NEC Premium
 
 /nec - Shows the config GUI
 /nec help - Shows the help message containing all the subcommands and their usage
